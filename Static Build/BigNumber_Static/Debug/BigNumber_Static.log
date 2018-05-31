@@ -1,0 +1,6 @@
+﻿  bignumber.cpp
+c:\users\j\source\repos\bignumber.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\j\source\repos\bignumber.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\j\source\repos\bignumber.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\j\source\repos\bignumber.cpp(300): warning C4101: 'i': unreferenced local variable
+  BigNumber_Static.vcxproj -> C:\Users\J\source\repos\BigNumber_Static\Debug\BigNumber_Static.lib
