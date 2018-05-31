@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  bignumber.cpp
+c:\users\j\source\repos\bignumber_dll\bignumber_dll\bignumber.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\j\source\repos\bignumber_dll\bignumber_dll\bignumber.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\j\source\repos\bignumber_dll\bignumber_dll\bignumber.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\j\source\repos\bignumber_dll\bignumber_dll\bignumber.cpp(300): warning C4101: 'i': unreferenced local variable
+  dllmain.cpp
+  Generating Code...
+  BigNumber_DLL.vcxproj -> c:\users\j\source\repos\BigNumber_DLL\Debug\BigNumber_DLL.dll
